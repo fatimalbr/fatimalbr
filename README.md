@@ -1,23 +1,23 @@
-# Hi there! I'm Fatima 👋
+# Hi there, I'm Fatima Zohra Labreche 👋
 
-A **Data Science Specialist** and **Developer Trainer** with a background in Computer Science. I bridge the gap between complex data concepts and practical software development, empowering others through clear, project-based learning.
+### Full Stack Engineer | Java & Spring Boot Specialist | M2 Computer Science
 
-I transitioned into data science through university or academic structure and now build end-to-end projects that showcase the entire pipeline: from data analysis and machine learning to deployment and MLOps. My repositories are designed to be both technically robust and educational.
-
-## 🛠️ Specialties & Content
-
-- **🧠 Data Science & AI:** End-to-end projects covering data analysis, statistical testing, machine learning, and deep learning.
-- **⚙️ Developer Training & Tutorials:** Step-by-step guides and well-documented code to help developers of all levels build and deploy data-driven applications.
-- **🌐 Real-World Applications:** Solving business problems with a full-stack data approach, demonstrating how models integrate into production environments.
-
-## 📂 Explore My Repos
-
-You'll find a mix of:
-- **Data Science Projects:** From A/B testing and hypothesis validation to predictive modeling.
-- **Developer-Focused Code:** Examples of APIs, data pipelines, and deployment strategies.
-- **Educational Resources:** Tutorials that break down complex topics into actionable steps.
+Ingénieure en Informatique (Master 2) with a focus on robust backend architecture, multi-tenant B2B SaaS platforms, and enterprise data management. Experienced in building high-performance RESTful APIs, securing applications with OAuth2/Keycloak & AES encryption, and optimizing SQL/Oracle data structures.
 
 ---
 
-### 💡 Let's Connect!
-I'm passionate about sharing knowledge and building solutions. Feel free to explore my projects, open an issue for questions, or reach out for collaboration!
+### Tech Stack & Core Capabilities
+
+- **Languages:** Java (17), SQL, PL/SQL, TypeScript, JavaScript (ES6+), Python, C++
+- **Backend Frameworks:** Spring Boot 3, Spring Security, Spring Data JPA/Hibernate, Node.js (v20 LTS), Express
+- **Architecture & Security:** Microservices, Clean Architecture, OAuth2/OIDC, Keycloak, JWT, AES-256-CBC Encryption
+- **Databases & ORM:** PostgreSQL, Oracle DB, Neo4j, Prisma ORM
+- **DevOps & Testing:** Docker, Git, Maven, JUnit 5, Mockito, RESTful API Design
+
+---
+
+### Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/fatima-zohra-labreche](https://www.linkedin.com/in/fatima-zohra-labreche/)
+- **Email:** fatimalabreche438@email.com
+- **Location:** Algiers, Algeria
